@@ -50,7 +50,7 @@ docker run -p 3838:3838 car_data_analysis
 ```
 
 ### Step 5: Access the Shiny App 🌐
-Wait until you see in the terminal Listening on http://0.0.0.0:3838, then open your web browser and go to http://localhost:3838 to access the Shiny app.
+Wait until you see in the terminal "Listening on http://0.0.0.0:3838", then open your web browser and go to http://localhost:3838 to access the Shiny app.
 
 ## Project Structure 🗂️
 - `Extract_Car_Details.R`: Extracts data from the website.
