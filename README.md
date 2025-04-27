@@ -4,7 +4,7 @@
 
 ## Project Overview 📝
 This project involves analyzing car data to uncover insights and trends. It includes the following steps:
-- Extracting car details from a website: Qatar Sale
+- Extracting car details from a website:https://qatarsale.com/en/products/cars_for_sale
 - Processing and cleaning the data.
 - Visualizing the data using interactive plots and charts.
 
