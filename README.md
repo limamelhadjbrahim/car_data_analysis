@@ -10,7 +10,8 @@ This project involves analyzing car data to uncover insights and trends. It incl
 
 ## Prerequisites 🛠️
 Before you begin, ensure you have met the following requirements:
-- **Docker Desktop**: You can download and install Docker Desktop from Docker's official website: [Docker Desktop](https://www.docker.com/products/docker-desktop/)
+- **Docker Desktop**: You can download and install Docker Desktop from Docker's official website:
+https://www.docker.com/products/docker-desktop
 - **Git**: You can download and install Git from Git's official website: Git Downloads
 
 ## Step-by-Step Guide 📝
