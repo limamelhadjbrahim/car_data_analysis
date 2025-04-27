@@ -33,7 +33,7 @@ https://git-scm.com/downloads
 ```
 
 ### Step 3: Clone the Repository and Navigate to the Project Directory 📁
-Type these commands one after the other::
+Open your terminal and type the following commands one after the other:
 ```bash
 git clone https://github.com/limamelhadjbrahim/car_data_analysis.git
 cd car_data_analysis
