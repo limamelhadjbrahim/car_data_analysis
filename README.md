@@ -40,7 +40,8 @@ cd car_data_analysis
 ```
 
 ### Step 3: Build the Docker Image 🏗️
-Build the Docker image using the following command:
+(This step may take several minutes)
+Build the Docker image using the following command: 
 ```bash
 docker build -t car_data_analysis .
 ```
