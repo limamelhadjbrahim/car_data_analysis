@@ -32,27 +32,27 @@ https://git-scm.com/downloads
    - Follow the installation instructions provided on the website.
 ```
 
-### Step 2: Clone the Repository and Navigate to the Project Directory 📁
+### Step 3: Clone the Repository and Navigate to the Project Directory 📁
 Type these commands one after the other::
 ```bash
 git clone https://github.com/limamelhadjbrahim/car_data_analysis.git
 cd car_data_analysis
 ```
 
-### Step 3: Build the Docker Image 🏗️
+### Step 4: Build the Docker Image 🏗️
 This step may take several minutes.
 Build the Docker image using the following command: 
 ```bash
 docker build -t car_data_analysis .
 ```
 
-### Step 4: Run the Docker Container 🚀
+### Step 5: Run the Docker Container 🚀
 Run the Docker container using the following command:
 ```bash
 docker run -p 3838:3838 car_data_analysis
 ```
 
-### Step 5: Access the Shiny App 🌐
+### Step 6: Access the Shiny App 🌐
 Wait until you see in the terminal "Listening on http://0.0.0.0:3838", then open your web browser and go to http://localhost:3838 to access the Shiny app.
 
 ## Project Structure 🗂️
